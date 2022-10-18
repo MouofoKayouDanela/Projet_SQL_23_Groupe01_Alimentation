@@ -1,4 +1,4 @@
-ALTER TABLE Type_abonnements ADD
+ALTER TABLE TYPE_ABONNEMENTS ADD
 (
      CONSTRAINT id_abonnement NOT NULL,
      CONSTRAINT Option_abonnement NOT NULL,
