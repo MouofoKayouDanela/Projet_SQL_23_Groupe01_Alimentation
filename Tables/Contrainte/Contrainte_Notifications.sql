@@ -1,4 +1,4 @@
-ALTER TABLE NOtifications
+ALTER TABLE NOTIFICATIONS
 ADD(
         CONSTRAINT id_notification NOT NULL,
         CONSTRAINT intitule_notification NOT NULL,
