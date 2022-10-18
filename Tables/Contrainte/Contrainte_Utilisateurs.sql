@@ -6,6 +6,7 @@ ADD(
         CONSTRAINT date_naissance NOT NULL,
         CONSTRAINT genre NOT NULL,
         CONSTRAINT email_utilisateur NOT NULL,
+        CHECK(email_utilisateur LIKE '%@%.%'),
         CONSTRAINT mot_de_passe NOT NULL,
         CONSTRAINT jour_inscription NOT NULL,
         CHECK (date_naissance < jour_inscription),
