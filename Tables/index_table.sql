@@ -1,3 +1,5 @@
+ALTER SESSION SET NLS_LANGUAGE=america;
+ALTER SESSION SET NLS_TERRITORY=american;
 @./configs.sql
 @Abonnements.sql
 @Calendrier.sql
