@@ -1,0 +1,3 @@
+ALTER TABLE TYPE_ABONNEMENTS
+ADD CONSTRAINT cp_typeabonnements
+PRIMARY KEY (id_abonnement);

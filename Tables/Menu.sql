@@ -1,8 +1,8 @@
 CREATE TABLE MENUS(
-    id_menu INTEGER,
-    intitule_menu VARCHAR(255),
-    date_debut DATE,
-    date_fin DATE,
-    budget REAL,
-    id_repas INTEGER
+    id_menu INTEGER ,
+    intitule_menu VARCHAR(255) ,
+    date_debut DATE ,
+    date_fin DATE ,
+    budget REAL ,
+    id_repas INTEGER 
 );

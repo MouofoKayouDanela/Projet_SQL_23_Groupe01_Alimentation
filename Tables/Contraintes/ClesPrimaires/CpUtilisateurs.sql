@@ -1,0 +1,3 @@
+ALTER TABLE UTILISATEURS
+ADD CONSTRAINT CP_utilisateur
+PRIMARY KEY (id_utilisateur);
