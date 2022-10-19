@@ -1,8 +1,8 @@
 CREATE TABLE HISTORIQUE(
 <<<<<<< HEAD
-    Id_historique INTEGER,
-    Id_menu INTEGER,
-    Id_abonnement INTEGER
+    id_historique INTEGER,
+    id_menu INTEGER,
+    id_abonnement INTEGER
 =======
     Id_historique INTEGER(10),
     Id_menu INTEGER(10),

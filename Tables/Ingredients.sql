@@ -1,6 +1,6 @@
 CREATE TABLE INGREDIENTS(
 <<<<<<< HEAD
-    Id_ingredient INTEGER,
+    id_ingredient INTEGER,
 =======
     Id_ingredient INTEGER(10),
 >>>>>>> TablesCreation
