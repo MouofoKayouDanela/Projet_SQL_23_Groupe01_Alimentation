@@ -1,6 +1,6 @@
 CREATE TABLE NOTIFICATIONS(
     id_notification INTEGER,
     intitule_notification VARCHAR(255),
-    contenu_notification TEXT,
+    contenu_notification VARCHAR(255),
     date_notification DATE
 );
