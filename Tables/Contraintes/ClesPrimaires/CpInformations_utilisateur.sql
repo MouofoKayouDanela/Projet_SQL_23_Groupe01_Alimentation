@@ -1,0 +1,3 @@
+ALTER TABLE INFORMATIONS_UTILISATEUR
+ADD CONSTRAINT cp_informations_utilisateur
+PRIMARY KEY(id_utilisateur);
