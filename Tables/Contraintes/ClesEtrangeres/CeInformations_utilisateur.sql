@@ -1,0 +1,3 @@
+ALTER TABLE INFORMATIONS_UTILISATEUR
+ADD CONSTRAINT ce_informations_utilisateur_id_utilisateur
+FOREIGN KEY (id_utilisateur) REFERENCES UTILISATEURS (id_utilisateur);

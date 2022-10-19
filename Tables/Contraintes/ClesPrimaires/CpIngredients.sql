@@ -1,0 +1,3 @@
+ALTER TABLE INGREDIENTS
+ADD CONSTRAINT cp_ingredients
+PRIMARY KEY(id_ingredient);

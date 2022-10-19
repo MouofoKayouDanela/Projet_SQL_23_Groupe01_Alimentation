@@ -1,4 +1,8 @@
 CREATE TABLE INGREDIENTS(
-    id_ingredient INTEGER ,
-    nom_ingredient VARCHAR(30) 
+<<<<<<< HEAD
+    Id_ingredient INTEGER,
+=======
+    Id_ingredient INTEGER(10),
+>>>>>>> TablesCreation
+    Nom_ingredient VARCHAR(30)
 );
