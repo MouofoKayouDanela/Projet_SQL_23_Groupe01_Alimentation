@@ -1,5 +1,5 @@
 ALTER TABLE NOTIFICATIONS 
-ALTER COLUMN id_notification INTEGER NOT NULL;
-ALTER COLUMN intitule_notification VARCHAR(255)NOT NULL ;
-ALTER COLUMN contenu_notification VARCHAR(255)NOT NULL ;
-ALTER COLUMN date_notification DATE NOT NULL ;
+MODIFY id_notification INTEGER NOT NULL
+MODIFY intitule_notification VARCHAR(255)NOT NULL 
+MODIFY contenu_notification VARCHAR(255)NOT NULL 
+MODIFY date_notification DATE NOT NULL ;

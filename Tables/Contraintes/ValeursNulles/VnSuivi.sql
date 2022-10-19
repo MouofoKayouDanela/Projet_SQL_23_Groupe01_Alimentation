@@ -1,6 +1,6 @@
 ALTER TABLE SUIVI
-  ALTER COLUMN  id_repas INTEGER NOT NULL ;
-  ALTER COLUMN  id_notification INTEGER  NOT NULL ;
-  ALTER COLUMN  masse_precedente REAL DATE NOT NULL;
-  ALTER COLUMN  masse_actuelle REAL NOT NULL ;
+  MODIFY  id_repas INTEGER NOT NULL 
+  MODIFY  id_notification INTEGER  NOT NULL 
+  MODIFY  masse_precedente REAL DATE NOT NULL
+  MODIFY  masse_actuelle REAL NOT NULL ;
 

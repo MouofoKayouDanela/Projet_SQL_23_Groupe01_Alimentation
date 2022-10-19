@@ -1,5 +1,5 @@
 ALTER TABLE INFORMATIONS_UTILISATEUR
-ALTER COLUMN id_utilisateur INTEGER NOT NULL
-ALTER COLUMN masse_initiale REAL NOT NULL
-ALTER COLUMN taille_utilisateur REAL NOT NULL
-ALTER COLUMN antecedents_medicaux VARCHAR(255) NULL;
+MODIFY id_utilisateur INTEGER NOT NULL
+MODIFY masse_initiale REAL NOT NULL
+MODIFY taille_utilisateur REAL NOT NULL
+MODIFY antecedents_medicaux VARCHAR(255) NULL;
