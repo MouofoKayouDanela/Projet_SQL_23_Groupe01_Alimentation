@@ -1,5 +1,5 @@
 CREATE TABLE INGREDIENTS_REPAS(
-    id_ingredient INTEGER(10),
-    id_repas INTEGER(10),
-    quantite_ingredients INTEGER(10)
+    id_ingredient INTEGER,
+    id_repas INTEGER,
+    quantite_ingredients INTEGER
 );

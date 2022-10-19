@@ -1,5 +1,5 @@
 CREATE TABLE UTILISATEURS(
-    id_utilisateur INTEGER(10),
+    id_utilisateur INTEGER,
     nom_utilisateur VARCHAR(20),
     prenom_utilisateur VARCHAR(20),
     date_naissance DATE,
@@ -7,5 +7,5 @@ CREATE TABLE UTILISATEURS(
     email_utilisateur VARCHAR(50),
     mot_de_passe VARCHAR(50),
     jour_inscription DATE,
-    id_notification INTEGER(10)
+    id_notification INTEGER
 );

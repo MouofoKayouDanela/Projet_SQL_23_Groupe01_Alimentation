@@ -1,6 +1,6 @@
 CREATE TABLE INFORMATIONS_UTILISATEUR(
-    id_utilisateur INTEGER(10),
-    masse_initiale REAL(10),
-    taille_utilisateur REAL(10),
+    id_utilisateur INTEGER ,
+    masse_initiale REAL,
+    taille_utilisateur REAL,
     antecedents_medicaux VARCHAR(255)
 );

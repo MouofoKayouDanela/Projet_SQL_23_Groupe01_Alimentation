@@ -1,6 +1,6 @@
 CREATE TABLE CALENDRIER (
-   id_abonnement INTEGER(10),
-   id_menu INTEGER(10),
+   id_abonnement INTEGER,
+   id_menu INTEGER,
    date_debut DATE,
    date_fin DATE
 );
