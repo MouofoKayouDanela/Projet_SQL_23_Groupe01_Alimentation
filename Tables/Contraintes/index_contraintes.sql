@@ -1,8 +1,8 @@
 PROMPT
-@@CpIndex
+@./Tables/Contraintes/ClesPrimaires/CpIndex
 PROMPT
-@@CeIndex
+@./Tables/Contraintes/ClesEtrangeres/CeIndex
 PROMPT
-@@VnIndex
+@./Tables/Contraintes/ValeursNulles/VnIndex
 PROMPT
-@@VvIndex   
+@./Tables/Contraintes/VerificationsValeurs/VvIndex   

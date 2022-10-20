@@ -1,44 +1,36 @@
-PROMT*************** Ajout des contraintes des cles etrangeres***************
+PROMPT*************** Ajout des contraintes des cles etrangeres***************
 
-PROMT ***************De la table Abonnements***************
+PROMPT ***************De la table Abonnements***************
 @@CeAbonnements
-PROMT
+PROMPT
 
-PROMT ***************De la table Calendrier***************
+PROMPT ***************De la table Calendrier***************
 @@CeCalendrier
-PROMT
+PROMPT
 
-PROMT ***************De la table Historique***************
+PROMPT ***************De la table Historique***************
 @@CeHistorique
-PROMT
+PROMPT
 
-PROMT ***************De la table Informations_utilisateur***************
+PROMPT ***************De la table Informations_utilisateur***************
 @@CeInformations_utilisateur
-PROMT
+PROMPT
 
-PROMT ***************De la table Ingredients_Repas***************
+PROMPT ***************De la table Ingredients_Repas***************
 @@CeIngredients_Repas
-PROMT
+PROMPT
 
-PROMT ***************De la table Menu***************
-@@CeMenu
-PROMT
-
-PROMT ***************De la table CeRepas***************
-@@CeRepas
-PROMT
-
-PROMT ***************De la table Suivi***************
+PROMPT ***************De la table Suivi***************
 @@CeSuivi
-PROMT
+PROMPT
 
-PROMT ***************De la table TypeAbonnements***************
+PROMPT ***************De la table TypeAbonnements***************
 @@CeTypeAbonnements
-PROMT
+PROMPT
 
-PROMT ***************De la table Utilisateurs***************
+PROMPT ***************De la table Utilisateurs***************
 @@CeUtilisateurs
-PROMT
+PROMPT
 PROMPT *************** De la table repas_menu ***************
 @@CeRepasMenu
 PROMPT
