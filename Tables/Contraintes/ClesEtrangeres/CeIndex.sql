@@ -39,6 +39,6 @@ PROMT
 PROMT ***************De la table Utilisateurs***************
 @@CeUtilisateurs
 PROMT
-PROMPT *************** DE LA TABLE REPAS_MENUS ***************
+PROMPT *************** De la table repas_menu ***************
 @@CeRepasMenu
 PROMPT

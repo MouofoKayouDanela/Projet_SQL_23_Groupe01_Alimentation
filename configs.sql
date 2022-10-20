@@ -7,9 +7,11 @@ DEFINE ttbs     = temp
 DEFINE pass_sys = al
 DEFINE log_path = logs
 DEFINE connect_string     = //localhost:1521/xepdb1
-DEFINE spool_file = &log_path.hr_main.log
+DEFINE spool_file = &log_path.alimentation.log
 SPOOL &spool_file
+PROMPT*************** Suppression utilisateurs eventuels***************
 DROP USER al CASCADE;
+PROMPT*************** Creation utilisateur ***************
 CREATE USER al IDENTIFIED BY &pass;
 
 ALTER USER al DEFAULT TABLESPACE &tbs

@@ -12,30 +12,30 @@ PROMPT
 PROMPT *************** DE LA TABLE INFORMATION_UTILISATEUR ***************
 @@VnInformations_Utilisateur
 PROMPT
-PROMPT *************** DE LA TABLE INGREDIENTS_REPAS ***************
+PROMPT *************** De la table ingredients_repas ***************
 @@VnIngredients_repas
 PROMPT
-PROMPT *************** DE LA TABLE INGREDIENTS ***************
+PROMPT *************** De la table ingredients ***************
 @@VnIngredients
 PROMPT
-PROMPT *************** DE LA TABLE MENU ***************
+PROMPT *************** De la table menu ***************
 @@VnMenu
 PROMPT
-PROMPT *************** DE LA TABLE NOTIFICATIONS ***************
+PROMPT *************** De la table notifications ***************
 @@VnNotifications
 PROMPT
-PROMPT *************** DE LA TABLE REPAS *************** 
+PROMPT *************** De la table repas *************** 
 @@VnRepas
 PROMPT
-PROMPT *************** DE LA TABLE SUIVI ***************
+PROMPT *************** De la table suivi ***************
 @@VnSuivi
 PROMPT
-PROMPT *************** DE LA TABLE TYPE_ABONNEMENT ***************
+PROMPT *************** De la table type_abonnements ***************
 @@VnTypeAbonnementS
 PROMPT
-PROMPT *************** DE LA TABLE UTILISATEURS ***************
+PROMPT *************** De la table utilisateurs ***************
 @@VnUtilisateurs
 PROMPT
-PROMPT *************** DE LA TABLE REPAS_MENUS ***************
+PROMPT *************** De la table repas_menu ***************
 @@VnRepasMenu
 PROMPT

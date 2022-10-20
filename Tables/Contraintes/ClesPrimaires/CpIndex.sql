@@ -36,7 +36,7 @@ PROMPT
 PROMPT**************De la table Utilisateurs***************
 @@CpUtilisateurs
 PROMPT
-PROMPT *************** DE LA TABLE REPAS_MENUS ***************
+PROMPT *************** De la table repas_menu ***************
 @@CpRepasMenu
 PROMPT
 

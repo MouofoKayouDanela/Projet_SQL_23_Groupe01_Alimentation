@@ -1,15 +1,41 @@
-ALTER SESSION SET NLS_LANGUAGE=america;
-ALTER SESSION SET NLS_TERRITORY=american;
-@./configs.sql
+@./configs
+PROMPT*************** Suppression des tables eventuelles***************
+@./Drop_Tables
+PROMPT*************** Creations des tables ***************
+PROMPT
+PROMPT*************** Creation de la table abonnements ***************
 @@Abonnements
+PROMPT
+PROMPT*************** Creation de la table calendrier ***************
 @@Calendrier
+PROMPT
+PROMPT*************** Creation de la table historique ***************
 @@Historique
+PROMPT
+PROMPT*************** Creation de la table informations_utilisateur ***************
 @@informations_utilisateur
+PROMPT
+PROMPT*************** Creation de la table ingredients_repas ***************
 @@Ingredients_Repas
+PROMPT
+PROMPT*************** Creation de la table ingredients ***************
 @@Ingredients
+PROMPT*************** Creation de la table menu ***************
 @@Menu
+PROMPT*************** Creation de la table notications ***************
 @@Notifications
+PROMPT
+PROMPT*************** Creation de la table repas ***************
 @@Repas
+PROMPT
+PROMPT*************** Creation de la table suivi ***************
 @@Suivi
+PROMPT
+PROMPT*************** Creation de la table type_abonnements ***************
 @@Type_abonnements
+PROMPT
+PROMPT*************** Creation de la table utilisateurs ***************
 @@Utilisateurs
+PROMPT
+PROMPT*************** Ajout des contraintes ***************
+@./Tables/Contraintes/index_contraintes
