@@ -1,0 +1,3 @@
+ALTER TABLE REPAS_MENUS
+ADD CONSTRAINT PC_repas
+PRIMARY KEY (id_repas,id_menu);

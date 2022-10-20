@@ -7,4 +7,4 @@ MODIFY    genre CHAR(1) NOT NULL
 MODIFY    email_utilisateur VARCHAR(50) NOT NULL 
 MODIFY    mot_de_passe VARCHAR(50) NOT NULL
 MODIFY    jour_inscription DATE NOT NULL 
-MODIFY    id_notification INTEGER NOT NULL ;
+MODIFY    id_notification INTEGER  NULL ;

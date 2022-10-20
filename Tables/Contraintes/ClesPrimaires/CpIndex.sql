@@ -35,4 +35,8 @@ PROMPT**************De la table Type_abonnements***************
 PROMPT
 PROMPT**************De la table Utilisateurs***************
 @@CpUtilisateurs
+PROMPT
+PROMPT *************** DE LA TABLE REPAS_MENUS ***************
+@@VnRepasMenu
+PROMPT
 

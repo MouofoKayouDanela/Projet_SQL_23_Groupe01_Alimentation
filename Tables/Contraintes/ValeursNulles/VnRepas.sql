@@ -3,4 +3,4 @@ ALTER TABLE REPAS
   MODIFY  nom_repas VARCHAR(20)  NOT NULL 
   MODIFY  date_repas DATE NOT NULL
   MODIFY  prix_repas REAL NOT NULL 
-  MODIFY  id_menu INTEGER  NOT NULL;
+ ;
