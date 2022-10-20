@@ -40,5 +40,5 @@ PROMT ***************De la table Utilisateurs***************
 @@CeUtilisateurs
 PROMT
 PROMPT *************** DE LA TABLE REPAS_MENUS ***************
-@@VnRepasMenu
+@@CeRepasMenu
 PROMPT
