@@ -1,3 +1,4 @@
+SET LINESIZE 500
 @./configs
 PROMPT*************** Suppression des tables eventuelles***************
 @./Drop_Tables
@@ -37,5 +38,15 @@ PROMPT
 PROMPT*************** Creation de la table utilisateurs ***************
 @@Utilisateurs
 PROMPT
+PROMPT*************** Creation de la table repas_menu ***************
+@@Repas_Menus
+PROMPT
 PROMPT*************** Ajout des contraintes ***************
 @./Tables/Contraintes/index_contraintes
+PROMPT
+PROMPT********************ALIMENTATION DES PERSONNES EN SURPOIDS**********************
+PROMPT********************************************************************************
+SELECT * FROM CAT;
+PROMPT********************************************************************************
+PROMPT***************************BY GROUPE_1_MOUOFO***********************************
+PROMPT

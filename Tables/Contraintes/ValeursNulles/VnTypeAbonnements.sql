@@ -1,4 +1,3 @@
 ALTER TABLE TYPE_ABONNEMENTS 
 MODIFY   id_abonnement INTEGER NOT NULL
-MODIFY   option_abonnement VARCHAR(255)NOT NULL
-MODIFY   occurrence_abonnement INTEGER  NULL;
+MODIFY   option_abonnement VARCHAR(255)NOT NULL;
