@@ -13,4 +13,3 @@ ALTER SESSION SET NLS_TERRITORY=american;
 @@Suivi
 @@Type_abonnements
 @@Utilisateurs
-@./Tables/Contrainte/Index_contrainte
