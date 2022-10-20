@@ -1,15 +1,22 @@
-PROMPT************* Ajout des contraites de domaine ***************
-PROMPT************* Cas de la table Abonnements **************
+PROMPT*************** Ajout des contraintes de domaine ***************
+PROMPT
+PROMPT*************** De la table Abonnements **************
 @@VvAbonnements
-PROMPT************* cas de la table Calendrier **************
+PROMPT
+PROMPT*************** De la table Calendrier ***************
 @@VvCalendrier
-PROMPT************* cas de la table Informations_utilisateur *************
+PROMPT
+PROMPT*************** De la table Informations_utilisateur ************
 @@VvInformations_utilisateur
-PROMPT************* cas de la table Ingredients_repas *************
+PROMPT
+PROMPT*************** De la table Ingredients_repas **************
 @@VvIngredients_repas
-PROMPT************* cas de la table Menu **************
+PROMPT
+PROMPT*************** De la table Menu ***************
 @@VvMenu
-PROMPT************* cas de la table Repas **************
+PROMPT
+PROMPT*************** De la table Repas ***************
 @@VvRepas
-PROMPT************* cas de la table Suivi **************
+PROMPT
+PROMPT*************** De la table Suivi ***************
 @@VvUtilisateur
