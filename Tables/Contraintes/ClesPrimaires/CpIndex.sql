@@ -1,38 +1,38 @@
-PROMPT************** appellation de toutes les contraintes de la cles primaires***************
+PROMPT************** Ajout des contraintes des cles primaires***************
 PROMPT
-PROMPT**************Contrainte Abonnements***************
+PROMPT**************De la table Abonnements***************
 @@CpAbonnements
 PROMPT
-PROMPT**************Contrainte Calendrier***************
+PROMPT**************De la table Calendrier***************
 @@CpCalendrier
 PROMPT
-PROMPT**************Contrainte Historique***************
+PROMPT**************De la table Historique***************
 @@CpHistorique
 PROMPT
-PROMPT**************Contrainte informations_utilisateur***************
+PROMPT**************De la table informations_utilisateur***************
 @@CpInformations_utilisateur
 PROMPT
-PROMPT**************Contrainte CpIngredients_repas***************
+PROMPT**************De la table Ingredients_repas***************
 @@CpIngredients_repas
 PROMPT
-PROMPT**************Contrainte Ingredients***************
+PROMPT**************De la table Ingredients***************
 @@CpIngredients
 PROMPT
-PROMPT**************Contrainte Menu***************
+PROMPT**************De la table Menu***************
 @@CpMenu
 PROMPT
-PROMPT**************Contrainte Notifications***************
+PROMPT**************De la table Notifications***************
 @@CpNotifications
 PROMPT
-PROMPT**************Contrainte Repas***************
+PROMPT**************De la table Repas***************
 @@CpRepas
 PROMPT
-PROMPT**************Contrainte Suivi***************
+PROMPT**************De la table Suivi***************
 @@CpSuivi
 PROMPT
-PROMPT**************Contrainte Type_abonnements***************
+PROMPT**************De la table Type_abonnements***************
 @@CpTypeAbonnements
 PROMPT
-PROMPT**************Contrainte Utilisateurs***************
+PROMPT**************De la table Utilisateurs***************
 @@CpUtilisateurs
 
