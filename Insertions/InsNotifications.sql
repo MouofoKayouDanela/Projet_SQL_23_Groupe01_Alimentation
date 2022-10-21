@@ -1,0 +1,3 @@
+INSERT INTO
+NOTIFICATIONS(id_notification,intitule_notification,contenu_notification,date_notification)
+VALUES();

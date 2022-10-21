@@ -1,0 +1,3 @@
+INSERT INTO
+INFORMATIONS_UTILISATEUR(id_utilisateur,masse_initiale,taille_utilisateur,antecedents_medicaux)
+VALUES();
