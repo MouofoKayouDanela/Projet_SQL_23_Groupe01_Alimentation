@@ -1,5 +1,5 @@
 ALTER TABLE UTILISATEURS
-MODIFY    id_utilisateur INTEGER NOT NULL 
+MODIFY    id_utilisateur VARCHAR(50) NOT NULL 
 MODIFY    nom_utilisateur VARCHAR(20) NOT NULL
 MODIFY    prenom_utilisateur VARCHAR(20) NOT NULL 
 MODIFY    date_naissance DATE NOT NULL
