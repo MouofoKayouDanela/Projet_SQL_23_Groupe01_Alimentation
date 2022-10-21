@@ -1,5 +1,5 @@
 CREATE TABLE INFORMATIONS_UTILISATEUR(
-    id_utilisateur INTEGER ,
+    id_utilisateur VARCHAR(50) ,
     masse_initiale REAL ,
     taille_utilisateur REAL ,
     antecedents_medicaux VARCHAR(255) 

@@ -1,4 +1,4 @@
 CREATE TABLE REPAS_MENUS(
-    id_menu INTEGER ,
-    id_repas INTEGER 
+    id_menu VARCHAR(50) ,
+    id_repas VARCHAR(50)
 );
