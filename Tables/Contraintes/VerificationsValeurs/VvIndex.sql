@@ -20,3 +20,6 @@ PROMPT*************** De la table Repas ***************
 PROMPT
 PROMPT*************** De la table Suivi ***************
 @@VvUtilisateurs
+PROMPT
+PROMPT*************** De la table Type_Abonnements ***************
+@@VvType_Abonnements

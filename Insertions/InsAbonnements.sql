@@ -1,3 +1,98 @@
 INSERT INTO
-ABONNEMENTS (id_abonnement,date_debut,date_fin,frais_abonnement,id_utilisateur)
-VALUES('AB001',);
+ABONNEMENTS (id_abonnement,date_debut,date_fin,id_utilisateur)
+VALUES(
+    'AB001',
+    '01-JAN-20',
+    '07-JAN-20',
+    'UT001'
+    );
+VALUES(
+    'AB002',
+    '23-FEV-20',
+    '29-FEV-20',
+    'UT002'
+);
+VALUES(
+    'AB003',
+    '25-FEV-20',
+    '02-MAR-20',
+    'UT003'
+);
+VALUES(
+    'AB004',
+    '06-MAI-20',
+    '12-MAI-20',
+    'UT004'
+);
+VALUES(
+    'AB005',
+    '25-MAI-20',
+    '31-MAI-20',
+    'UT005'
+);
+VALUES(
+    'AB006',
+    '12-JUIL-20',
+    '18-JUIL-20',
+    'UT006'
+);
+VALUES(
+    'AB007',
+    '16-AOU-22',
+    '22-AOU-22',
+    'UT007'
+);
+VALUES(
+    'AB008',
+    '29-AVR-22',
+    '05-MAI-22',
+    'UT008'
+);
+VALUES(
+    'AB009',
+    '01-JAN-21',
+    '07-JAN-21',
+    'UT009'
+);
+VALUES(
+    'AB010',
+    '31-OCT-21',
+    '06-NOV-21',
+    'UT010'
+);
+VALUES(
+    'AB011',
+    '19-FEV-22',
+    '25-FEV-22',
+    'UT011'
+);
+VALUES(
+    'AB007',
+    '23-AOU-22',
+    '05-SEPT-22',
+    'UT007'
+);
+VALUES(
+    'AB006',
+    '19-JUIL-20',
+    '15-AOU-20',
+    'UT006'
+);
+VALUES(
+    'AB008',
+    '06-MAI-22',
+    '01-JUI-22',
+    'UT008'
+);
+VALUES(
+    'AB009',
+    '08-JAN-21',
+    '04-FEV-21',
+    'UT009'
+);
+VALUES(
+    'AB011',
+    '26-FEV-22',
+    '25-MAR-22',
+    'UT011'
+);

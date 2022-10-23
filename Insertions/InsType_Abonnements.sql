@@ -1,3 +1,99 @@
 INSERT INTO
-Type_Abonnements(id_abonnement,option_abonnement,occurrence_abonnement)
-VALUES();
+Type_Abonnements(id_abonnement,option_abonnement,frais_abonnement,occurrence_abonnement)
+VALUES(
+    'AB001',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB002',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB003',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB004',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB005',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB006',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB007',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB008',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB009',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB010',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB011',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB002',
+    'GRATUIT',
+    '0',
+    '1'
+);
+VALUES(
+    'AB007',
+    'MENSUEL',
+    '15000',
+);
+VALUES(
+    'AB006',
+    'MENSUEL',
+    '15000',
+);
+VALUES(
+    'AB008',
+    'MENSUEL',
+    '15000',
+);
+VALUES(
+    'AB009',
+    'MENSUEL',
+    '15000',
+);
+VALUES(
+    'AB011',
+    'MENSUEL',
+    '15000',
+);

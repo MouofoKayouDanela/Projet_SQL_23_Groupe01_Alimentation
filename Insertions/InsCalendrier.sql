@@ -1,3 +1,68 @@
 INSERT INTO
 CALENDRIER (id_abonnement,id_menu,date_debut,date_fin)
-VALUES();
+VALUES(
+    'AB001',
+    'ME001'
+    '01-JAN-20',
+    '07-JAN-20',
+);
+VALUES(
+    'AB002',
+    'ME002'
+    '23-FEV-20',
+    '29-FEV-20',
+);
+VALUES(
+    'AB003',
+    'ME003'
+    '25-FEV-20',
+    '02-MAR-20',
+);
+VALUES(
+    'AB004',
+    'ME004'
+    '06-MAI-20',
+    '12-MAI-20',   
+);
+VALUES(
+    'AB005',
+    'ME005'
+    '25-MAI-20',
+    '31-MAI-20', 
+);
+VALUES(
+    'AB006',
+    'ME006'
+    '12-JUIL-20',
+    '18-JUIL-20',
+);
+VALUES(
+    'AB007',
+    'ME007'
+    '16-AOU-22',
+    '22-AOU-22',    
+);
+VALUES(
+    'AB008',
+    'ME008'
+    '29-AVR-22',
+    '05-MAI-22', 
+);
+VALUES(
+    'AB009',
+    '01-JAN-21',
+    '07-JAN-21',
+    'UT009'
+);
+VALUES(
+    'AB010',
+    'ME010'
+    '31-OCT-21',
+    '06-NOV-21',   
+);
+VALUES(
+    'AB011',
+    'ME011'
+    '19-FEV-22',
+    '25-FEV-22',
+);
