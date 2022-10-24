@@ -1,3 +1,78 @@
 INSERT INTO
-INFORMATIONS_UTILISATEUR(id_utilisateur,masse_initiale,taille_utilisateur,antecedents_medicaux)
-VALUES();
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
+VALUES
+(
+    'UT001',
+    50.6,
+    1.70,
+    "Diabète"
+);
+VALUES
+(
+    'UT002',
+    69.4,
+    1.65,
+    "Hypertension"
+);
+VALUES
+(
+    'UT003',
+    75,
+    1.75,
+    "Allergies"
+);
+VALUES
+(
+    'UT004',
+    50.6,
+    1.70,
+    "Diabète"
+);
+VALUES
+(
+    'UT005',
+    82,
+    1.85
+);
+VALUES
+(
+    'UT006',
+    73.6,
+    1.58,
+);
+VALUES
+(
+    'UT007',
+    74.3,
+    1.69
+);
+VALUES
+(
+    'UT008',
+    68.1,
+    1.56
+);
+VALUES
+(
+    'UT009',
+    88.8,
+    1.75
+);
+VALUES
+(
+    'UT010',
+    66.4,
+    1.49
+);
+VALUES
+(
+    'UT001',
+    72.6,
+    1.61
+);

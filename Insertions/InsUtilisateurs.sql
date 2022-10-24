@@ -1,4 +1,144 @@
-INSERT INTO
-UTILISATEURS ( id_utilisateur,nom_utilisateur,prenom_utilisateur,date_naissance,genre,email_utilisateur,
-mot_de_passe,jour_inscription ,id_notification )
-VALUES ('U001',);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT001',
+    'Kenefack',
+    'Jonnathan',
+    '17-FEV-92',
+    'M', 
+    'kenejonn@gmail.com',
+    'ken89Joh17',
+    '01-JAN-20',
+    'NF001'
+);
+VALUES
+(
+    'UT002',
+    'Kenfack',
+    'Jonan',
+    '17-FEV-02',
+    'M', 
+    'kenjonan@gmail.com',
+    'jonan02',
+    '23-FEV-20',
+    'NF002'
+);
+VALUES
+(
+    'UT003',
+    'Temfack',
+    'Joel',
+    '17-JAN-99',
+    'M', 
+    'joe@gmail.com',
+    'temtem',
+    '25-FEV-20',
+    'NF003'
+);
+VALUES
+(
+    'UT004',
+    'Nguefack',
+    'Justine',
+    '17-JAN-04',
+    'F', 
+    'justinenguefack@gmail.com',
+    'JustNguefack',
+    '06-MAI-20',
+    'NF004'
+);
+VALUES
+(
+    'UT005',
+    'Bogni',
+    'Doralice',
+    '17-JAN-98',
+    'F', 
+    'bodora@gmail.com',
+    'BoDora98',
+    '25-MAI-20',
+    'NF005'
+);
+VALUES
+(
+    'UT006',
+    'Eloundou',
+    'Anita',
+    '17-JAN-02',
+    'F', 
+    'elouneloun@gmail.com',
+    '172022',
+    '12-JUILL-20',
+    'NF006'
+);
+VALUES
+(
+    'UT007',
+    'Ekane',
+    'Timote',
+    '17-JAN-01',
+    'M', 
+    'tim@gmail.com',
+    '20210117',
+    '16-AOUT-22',
+    'NF007'
+);
+VALUES
+(
+    'UT008',
+    'Babana',
+    'Ousmanou',
+    '17-JAN-00',
+    'M', 
+    'babanou@gmail.com',
+    'babana17',
+    '29-AVR-22',
+    'NF008'
+);
+VALUES
+(
+    'UT009',
+    'Zangue',
+    'Sopita',
+    '17-JAN-90',
+    'F', 
+    'sopitazangue@gmail.com',
+    'sopita1990',
+    '01-JAN-21',
+    'NF009'
+);
+VALUES
+(
+    'UT010',
+    'Samba',
+    'Ange',
+    '17-JAN-05',
+    'F', 
+    'angesamba@gmail.com',
+    'lovemyself17',
+    '31-OCT-21',
+    'NF010'
+);
+VALUES
+(
+    'UT011',
+    'Kamga',
+    'Paul',
+    '17-JAN-01',
+    'M', 
+    'paulkamga@gmail.com',
+    '172001',
+    '19-FEV-22',
+    'NF011'
+);
