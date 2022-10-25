@@ -8,10 +8,6 @@ PROMPT*************** Insertion de la table Calendrier ***************
 @@InsCalendrier
 PROMPT
 
-PROMPT*************** Insertion de la table Historique ***************
-@@InsHistorique
-PROMPT
-
 PROMPT*************** Insertion de la table informations_utilisateur ***************
 @@InsInfos_Utilisateurs
 PROMPT

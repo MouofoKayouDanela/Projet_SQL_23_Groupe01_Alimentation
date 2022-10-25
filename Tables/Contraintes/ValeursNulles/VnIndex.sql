@@ -6,9 +6,6 @@ PROMPT
 PROMPT *************** DE LA TABLE CALENDRIER ***************
 @@VnCalendrier
 PROMPT
-PROMPT *************** DE LA TABLE HISTORIQUE ***************
-@@VnHistorique
-PROMPT
 PROMPT *************** DE LA TABLE INFORMATION_UTILISATEUR ***************
 @@VnInformations_Utilisateur
 PROMPT

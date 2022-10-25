@@ -9,9 +9,6 @@ PROMPT
 PROMPT*************** Creation de la table calendrier ***************
 @@Calendrier
 PROMPT
-PROMPT*************** Creation de la table historique ***************
-@@Historique
-PROMPT
 PROMPT*************** Creation de la table informations_utilisateur ***************
 @@informations_utilisateur
 PROMPT
