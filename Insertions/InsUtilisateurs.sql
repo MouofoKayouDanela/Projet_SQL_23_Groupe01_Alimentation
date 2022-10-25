@@ -15,11 +15,11 @@ VALUES
     'UT001',
     'Kenefack',
     'Jonnathan',
-    '17-FEV-92',
+    '17/02/92',
     'M', 
     'kenejonn@gmail.com',
     'ken89Joh17',
-    '01-JAN-20',
+    '01/01/20',
     'NF001'
 );
 VALUES
@@ -27,11 +27,11 @@ VALUES
     'UT002',
     'Kenfack',
     'Jonan',
-    '17-FEV-02',
+    '17/02/02',
     'M', 
     'kenjonan@gmail.com',
     'jonan02',
-    '23-FEV-20',
+    '23/02/20',
     'NF002'
 );
 VALUES
@@ -39,11 +39,11 @@ VALUES
     'UT003',
     'Temfack',
     'Joel',
-    '17-JAN-99',
+    '17/01/99',
     'M', 
     'joe@gmail.com',
     'temtem',
-    '25-FEV-20',
+    '25/02/20',
     'NF003'
 );
 VALUES
@@ -51,11 +51,11 @@ VALUES
     'UT004',
     'Nguefack',
     'Justine',
-    '17-JAN-04',
+    '17/01/04',
     'F', 
     'justinenguefack@gmail.com',
     'JustNguefack',
-    '06-MAI-20',
+    '06/05/20',
     'NF004'
 );
 VALUES
@@ -63,11 +63,11 @@ VALUES
     'UT005',
     'Bogni',
     'Doralice',
-    '17-JAN-98',
+    '17/01/98',
     'F', 
     'bodora@gmail.com',
     'BoDora98',
-    '25-MAI-20',
+    '25/05/20',
     'NF005'
 );
 VALUES
@@ -75,11 +75,11 @@ VALUES
     'UT006',
     'Eloundou',
     'Anita',
-    '17-JAN-02',
+    '17/01/02',
     'F', 
     'elouneloun@gmail.com',
     '172022',
-    '12-JUILL-20',
+    '12/07/20',
     'NF006'
 );
 VALUES
@@ -87,11 +87,11 @@ VALUES
     'UT007',
     'Ekane',
     'Timote',
-    '17-JAN-01',
+    '17/01/01',
     'M', 
     'tim@gmail.com',
     '20210117',
-    '16-AOUT-22',
+    '16/08/22',
     'NF007'
 );
 VALUES
@@ -99,11 +99,11 @@ VALUES
     'UT008',
     'Babana',
     'Ousmanou',
-    '17-JAN-00',
+    '17/01/00',
     'M', 
     'babanou@gmail.com',
     'babana17',
-    '29-AVR-22',
+    '29/04/22',
     'NF008'
 );
 VALUES
@@ -111,11 +111,11 @@ VALUES
     'UT009',
     'Zangue',
     'Sopita',
-    '17-JAN-90',
+    '17/01/90',
     'F', 
     'sopitazangue@gmail.com',
     'sopita1990',
-    '01-JAN-21',
+    '01/01/21',
     'NF009'
 );
 VALUES
@@ -123,11 +123,11 @@ VALUES
     'UT010',
     'Samba',
     'Ange',
-    '17-JAN-05',
+    '17/01/05',
     'F', 
     'angesamba@gmail.com',
     'lovemyself17',
-    '31-OCT-21',
+    '31/10/21',
     'NF010'
 );
 VALUES
@@ -135,10 +135,82 @@ VALUES
     'UT011',
     'Kamga',
     'Paul',
-    '17-JAN-01',
+    '17/01/01',
     'M', 
     'paulkamga@gmail.com',
     '172001',
-    '19-FEV-22',
+    '19/02/22',
     'NF011'
+);
+VALUES
+(
+    'UT012',
+    'Kagame',
+    'Paul',
+    '26/08/01',
+    'M', 
+    'paulkagame@gmail.com',
+    'paulpaul',
+    '19/02/22',
+    'NF012'
+);
+VALUES
+(
+    'UT013',
+    'Embassa',
+    'Vanessa',
+    '27/12/99',
+    'F', 
+    'vanessaembassa@gmail.com',
+    '2712',
+    '31/10/21',
+    'NF013'
+);
+VALUES
+(
+    'UT014',
+    'Owona',
+    'Gabrielle',
+    '11/11/99',
+    'F', 
+    'gabi@gmail.com',
+    '1999',
+    '29/04/22',
+    'NF013'
+);
+VALUES
+(
+    'UT015',
+    'Tedongmo',
+    'Valerie',
+    '30/06/00',
+    'F', 
+    'valtedon@gmail.com',
+    '2000',
+    '16/08/22',
+    'NF013'
+);
+VALUES
+(
+    'UT016',
+    'dongmo',
+    'Vanelle',
+    '30/06/03',
+    'F', 
+    'valdon@gmail.com',
+    '2003',
+    '01/01/21',
+    'NF013'
+);
+VALUES
+(
+    'UT017',
+    'Monga',
+    'Jovanie',
+    '30/06/03',
+    'F', 
+    'mongajovanie@gmail.com',
+    '3006',
+    '06/05/20',
+    'NF013'
 );
