@@ -9,8 +9,5 @@ PROMPT
 PROMPT*************** De la table Informations_utilisateur ************
 @@VvInformations_utilisateur
 PROMPT
-PROMPT*************** De la table Repas_Menus ***************
-@@VvRepas_Menu
-PROMPT
 PROMPT*************** De la table Suivi ***************
 @@VvUtilisateurs
