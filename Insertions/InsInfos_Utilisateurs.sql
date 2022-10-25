@@ -34,6 +34,13 @@ VALUES
     1.70,
     "Diabète"
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur
+)
 VALUES
 (
     'UT005',
