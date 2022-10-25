@@ -6,9 +6,6 @@ PROMPT
 PROMPT**************De la table Calendrier***************
 @@CpCalendrier
 PROMPT
-PROMPT**************De la table Historique***************
-@@CpHistorique
-PROMPT
 PROMPT**************De la table informations_utilisateur***************
 @@CpInformations_utilisateur
 PROMPT

@@ -15,8 +15,8 @@ PROMPT
 PROMPT*************** De la table Menu ***************
 @@VvMenu
 PROMPT
-PROMPT*************** De la table Repas ***************
-@@VvRepas
+PROMPT*************** De la table Repas_Menus ***************
+@@Vv_repas_menu
 PROMPT
 PROMPT*************** De la table Suivi ***************
 @@VvUtilisateurs
