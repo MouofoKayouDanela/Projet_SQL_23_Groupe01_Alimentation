@@ -8,10 +8,6 @@ PROMPT ***************De la table Calendrier***************
 @@CeCalendrier
 PROMPT
 
-PROMPT ***************De la table Historique***************
-@@CeHistorique
-PROMPT
-
 PROMPT ***************De la table Informations_utilisateur***************
 @@CeInformations_utilisateur
 PROMPT
