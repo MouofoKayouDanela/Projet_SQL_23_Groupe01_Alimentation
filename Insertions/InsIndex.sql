@@ -1,5 +1,3 @@
-PROMPT***************INSERTION DES VALEURS DANS LES TABLES**************
-
 PROMPT*************** Insertion de la table Abonnements ***************
 @@InsAbonnements
 PROMPT

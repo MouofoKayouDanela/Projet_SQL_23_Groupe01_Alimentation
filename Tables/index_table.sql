@@ -37,6 +37,9 @@ PROMPT
 PROMPT*************** Creation de la table repas_menu ***************
 @@Repas_Menus
 PROMPT
+PROMPT*************** Creation des vues ***************
+@./Vues/VueIndex
+PROMPT
 PROMPT*************** Ajout des contraintes ***************
 @./Tables/Contraintes/index_contraintes
 PROMPT
