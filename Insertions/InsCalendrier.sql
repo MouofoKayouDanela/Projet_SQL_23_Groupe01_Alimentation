@@ -258,7 +258,7 @@ INSERT INTO
 CALENDRIER (id_abonnement,id_menu,date_debut_menu,date_fin_menu)
 VALUES(
     'AB002',
-    'ME012',
+   'ME006',
     '05/03/22',
     '11/03/22'
 );
