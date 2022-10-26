@@ -40,6 +40,9 @@ PROMPT
 PROMPT*************** Ajout des insertion ***************
 @./Insertions/InsIndex
 PROMPT
+PROMPT*************** Creation des vues ***************
+@./Vues/VueIndex
+PROMPT
 PROMPT*************** Ajout des contraintes ***************
 @./Tables/Contraintes/index_contraintes
 PROMPT

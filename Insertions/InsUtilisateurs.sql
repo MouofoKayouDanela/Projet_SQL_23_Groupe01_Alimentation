@@ -1,4 +1,396 @@
-INSERT INTO
-UTILISATEURS ( id_utilisateur,nom_utilisateur,prenom_utilisateur,date_naissance,genre,email_utilisateur,
-mot_de_passe,jour_inscription ,id_notification )
-VALUES ('U001',);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT001',
+    'Kenefack',
+    'Jonnathan',
+    '17/02/92',
+    'M', 
+    'kenejonn@gmail.com',
+    'ken89Joh17',
+    '01/01/20',
+    'NF001'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT002',
+    'Kenfack',
+    'Jonan',
+    '17/02/02',
+    'M', 
+    'kenjonan@gmail.com',
+    'jonan02',
+    '23/02/20',
+    'NF002'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT003',
+    'Temfack',
+    'Joel',
+    '17/01/99',
+    'M', 
+    'joe@gmail.com',
+    'temtem',
+    '25/02/20',
+    'NF003'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT004',
+    'Nguefack',
+    'Justine',
+    '17/01/04',
+    'F', 
+    'justinenguefack@gmail.com',
+    'JustNguefack',
+    '06/05/20',
+    'NF004'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT005',
+    'Bogni',
+    'Doralice',
+    '17/01/98',
+    'F', 
+    'bodora@gmail.com',
+    'BoDora98',
+    '25/05/20',
+    'NF005'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT006',
+    'Eloundou',
+    'Anita',
+    '17/01/02',
+    'F', 
+    'elouneloun@gmail.com',
+    '172022',
+    '12/07/20',
+    'NF006'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT007',
+    'Ekane',
+    'Timote',
+    '17/01/01',
+    'M', 
+    'tim@gmail.com',
+    '20210117',
+    '16/08/22',
+    'NF007'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT008',
+    'Babana',
+    'Ousmanou',
+    '17/01/00',
+    'M', 
+    'babanou@gmail.com',
+    'babana17',
+    '29/04/22',
+    'NF008'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT009',
+    'Zangue',
+    'Sopita',
+    '17/01/90',
+    'F', 
+    'sopitazangue@gmail.com',
+    'sopita1990',
+    '01/01/21',
+    'NF009'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT010',
+    'Samba',
+    'Ange',
+    '17/01/05',
+    'F', 
+    'angesamba@gmail.com',
+    'lovemyself17',
+    '31/10/21',
+    'NF010'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT011',
+    'Kamga',
+    'Paul',
+    '17/01/01',
+    'M', 
+    'paulkamga@gmail.com',
+    '172001',
+    '19/02/22',
+    'NF011'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT012',
+    'Kagame',
+    'Paul',
+    '26/08/01',
+    'M', 
+    'paulkagame@gmail.com',
+    'paulpaul',
+    '19/02/22',
+    'NF012'
+);
+VALUES
+(
+    'UT013',
+    'Embassa',
+    'Vanessa',
+    '27/12/99',
+    'F', 
+    'vanessaembassa@gmail.com',
+    '2712',
+    '31/10/21',
+    'NF013'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT014',
+    'Owona',
+    'Gabrielle',
+    '11/11/99',
+    'F', 
+    'gabi@gmail.com',
+    '1999',
+    '29/04/22',
+    'NF013'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT015',
+    'Tedongmo',
+    'Valerie',
+    '30/06/00',
+    'F', 
+    'valtedon@gmail.com',
+    '2000',
+    '16/08/22',
+    'NF013'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT016',
+    'dongmo',
+    'Vanelle',
+    '30/06/03',
+    'F', 
+    'valdon@gmail.com',
+    '2003',
+    '01/01/21',
+    'NF013'
+);
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
+VALUES
+(
+    'UT017',
+    'Monga',
+    'Jovanie',
+    '30/06/03',
+    'F', 
+    'mongajovanie@gmail.com',
+    '3006',
+    '06/05/20',
+    'NF013'
+);
