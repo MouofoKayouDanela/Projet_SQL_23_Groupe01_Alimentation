@@ -19,15 +19,11 @@ PROMPT*************** Creation de la table ingredients ***************
 @@Ingredients
 PROMPT*************** Creation de la table menu ***************
 @@Menu
-PROMPT*************** Creation de la table notications ***************
-@@Notifications
-PROMPT
+
 PROMPT*************** Creation de la table repas ***************
 @@Repas
 PROMPT
-PROMPT*************** Creation de la table suivi ***************
-@@Suivi
-PROMPT
+
 PROMPT*************** Creation de la table type_abonnements ***************
 @@Type_abonnements
 PROMPT

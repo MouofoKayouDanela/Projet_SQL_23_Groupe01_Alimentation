@@ -18,14 +18,8 @@ PROMPT
 PROMPT *************** De la table menu ***************
 @@VnMenu
 PROMPT
-PROMPT *************** De la table notifications ***************
-@@VnNotifications
-PROMPT
 PROMPT *************** De la table repas *************** 
 @@VnRepas
-PROMPT
-PROMPT *************** De la table suivi ***************
-@@VnSuivi
 PROMPT
 PROMPT *************** De la table type_abonnements ***************
 @@VnTypeAbonnementS

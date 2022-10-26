@@ -18,14 +18,8 @@ PROMPT
 PROMPT**************De la table Menu***************
 @@CpMenu
 PROMPT
-PROMPT**************De la table Notifications***************
-@@CpNotifications
-PROMPT
 PROMPT**************De la table Repas***************
 @@CpRepas
-PROMPT
-PROMPT**************De la table Suivi***************
-@@CpSuivi
 PROMPT
 PROMPT**************De la table Type_abonnements***************
 @@CpTypeAbonnements
