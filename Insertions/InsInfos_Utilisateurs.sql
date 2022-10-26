@@ -13,6 +13,14 @@ VALUES
     1.70,
     "Diabète"
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT002',
@@ -20,6 +28,14 @@ VALUES
     1.65,
     "Hypertension"
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT003',
@@ -27,6 +43,14 @@ VALUES
     1.75,
     "Allergies"
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT004',
@@ -47,18 +71,42 @@ VALUES
     82,
     1.85
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT006',
     73.6,
     1.58,
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT007',
     74.3,
     1.69
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT008',
@@ -77,42 +125,98 @@ VALUES
     66.4,
     1.49
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT011',
     72.6,
     1.61
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT012',
     73.3,
     1.59
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT013',
     51.9,
     1.35
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT014',
     83.5,
     1.73
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT015',
     87.3,
     1.72
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT016',
     59.1,
     1.45
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur,
+    antecedents_medicaux
+)
 VALUES
 (
     'UT017',

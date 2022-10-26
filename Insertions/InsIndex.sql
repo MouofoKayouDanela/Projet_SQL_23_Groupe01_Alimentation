@@ -24,20 +24,12 @@ PROMPT*************** Insertion de la table menu **************
 @@InsMenu
 PROMPT
 
-PROMPT*************** Insertion de la table notification ***************
-@@InsNotifications
-PROMPT
-
 PROMPT*************** Insertion de la table repas_menu ***************
 @@InsRepas_Menu
 PROMPT
 
 PROMPT*************** Insertion de la table repas ***************
 @@InsRepas
-PROMPT
-
-PROMPT*************** Insertion de la table suivi ***************
-@@InsSuivi
 PROMPT
 
 PROMPT*************** Insertion de la table type_abonnement ***************

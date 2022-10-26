@@ -22,6 +22,18 @@ VALUES
     '01/01/20',
     'NF001'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT002',
@@ -34,6 +46,18 @@ VALUES
     '23/02/20',
     'NF002'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT003',
@@ -46,6 +70,18 @@ VALUES
     '25/02/20',
     'NF003'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT004',
@@ -58,6 +94,18 @@ VALUES
     '06/05/20',
     'NF004'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT005',
@@ -70,6 +118,18 @@ VALUES
     '25/05/20',
     'NF005'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT006',
@@ -82,6 +142,18 @@ VALUES
     '12/07/20',
     'NF006'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT007',
@@ -94,6 +166,18 @@ VALUES
     '16/08/22',
     'NF007'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT008',
@@ -106,6 +190,18 @@ VALUES
     '29/04/22',
     'NF008'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT009',
@@ -118,6 +214,18 @@ VALUES
     '01/01/21',
     'NF009'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT010',
@@ -130,6 +238,18 @@ VALUES
     '31/10/21',
     'NF010'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT011',
@@ -142,6 +262,18 @@ VALUES
     '19/02/22',
     'NF011'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT012',
@@ -166,6 +298,18 @@ VALUES
     '31/10/21',
     'NF013'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT014',
@@ -178,6 +322,18 @@ VALUES
     '29/04/22',
     'NF013'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT015',
@@ -190,6 +346,18 @@ VALUES
     '16/08/22',
     'NF013'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT016',
@@ -202,6 +370,18 @@ VALUES
     '01/01/21',
     'NF013'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription,
+    id_notification
+)
 VALUES
 (
     'UT017',
