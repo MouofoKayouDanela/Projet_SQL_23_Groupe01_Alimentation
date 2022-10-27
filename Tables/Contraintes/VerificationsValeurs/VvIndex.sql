@@ -9,5 +9,11 @@ PROMPT
 PROMPT*************** De la table Informations_utilisateur ************
 @@VvInformations_utilisateur
 PROMPT
-PROMPT*************** De la table Suivi ***************
+PROMPT*************** De la table Utilisateurs ***************
 @@VvUtilisateurs
+PROMPT
+PROMPT*************** De la table Repas ***************
+@@VvRepas
+PROMPT
+PROMPT*************** De la table type_abonnement ***************
+@@VvType_abonnements

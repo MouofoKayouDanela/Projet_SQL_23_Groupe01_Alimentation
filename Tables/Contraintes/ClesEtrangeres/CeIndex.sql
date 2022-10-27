@@ -16,10 +16,6 @@ PROMPT ***************De la table Ingredients_Repas***************
 @@CeIngredients_Repas
 PROMPT
 
-PROMPT ***************De la table Suivi***************
-@@CeSuivi
-PROMPT
-
 PROMPT ***************De la table TypeAbonnements***************
 @@CeTypeAbonnements
 PROMPT
