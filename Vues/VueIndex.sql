@@ -2,4 +2,3 @@
 @@VueIdmenusAbonnement
 @@VueMenusAbonnement
 @@VuePrixMenu
-@@VueSelectionMenu
