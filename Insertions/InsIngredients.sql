@@ -76,7 +76,7 @@ INGREDIENTS( id_ingredient,nom_ingredient)
 
 INSERT INTO
 INGREDIENTS( id_ingredient,nom_ingredient)    
-    VALUES('IN20','Manioc');
+    VALUES('IN020','Manioc');
 
 INSERT INTO
 INGREDIENTS( id_ingredient,nom_ingredient)    

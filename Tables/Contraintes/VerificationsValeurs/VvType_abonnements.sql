@@ -1,3 +1,3 @@
 ALTER TABLE TYPE_ABONNEMENTS
-ADD CONSTRAINT chk_Type_abonnements_dates
-CHECK(frais_abonnement > 0);
+ADD CONSTRAINT Vv_type_abonnements
+CHECK(frais_abonnement >= 0);

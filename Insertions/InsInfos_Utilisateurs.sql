@@ -11,7 +11,7 @@ VALUES
     'UT001',
     50.6,
     1.70,
-    "Diabète"
+    'Diabete'
 );
 INSERT INTO
 INFORMATIONS_UTILISATEUR
@@ -26,7 +26,7 @@ VALUES
     'UT002',
     69.4,
     1.65,
-    "Hypertension"
+    'Hypertension'
 );
 INSERT INTO
 INFORMATIONS_UTILISATEUR
@@ -41,7 +41,7 @@ VALUES
     'UT003',
     75,
     1.75,
-    "Allergies"
+    'Allergies'
 );
 INSERT INTO
 INFORMATIONS_UTILISATEUR
@@ -56,7 +56,7 @@ VALUES
     'UT004',
     50.6,
     1.70,
-    "Diabète"
+    'Diabete'
 );
 INSERT INTO
 INFORMATIONS_UTILISATEUR
@@ -76,22 +76,20 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
     'UT006',
     73.6,
-    1.58,
+    1.58
 );
 INSERT INTO
 INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -104,8 +102,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -113,12 +110,26 @@ VALUES
     68.1,
     1.56
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur
+)
 VALUES
 (
     'UT009',
     88.8,
     1.75
 );
+INSERT INTO
+INFORMATIONS_UTILISATEUR
+(
+    id_utilisateur,
+    masse_initiale,
+    taille_utilisateur
+)
 VALUES
 (
     'UT010',
@@ -130,8 +141,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -144,8 +154,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -158,8 +167,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -172,8 +180,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -186,8 +193,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -200,8 +206,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (
@@ -214,8 +219,7 @@ INFORMATIONS_UTILISATEUR
 (
     id_utilisateur,
     masse_initiale,
-    taille_utilisateur,
-    antecedents_medicaux
+    taille_utilisateur
 )
 VALUES
 (

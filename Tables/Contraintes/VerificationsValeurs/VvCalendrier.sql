@@ -1,3 +1,3 @@
 ALTER TABLE CALENDRIER
 ADD CONSTRAINT chk_calendrier_dates
-CHECK (date_debut_menu < date_fin_menu AND masse_actuelle>0 AND masse_precedente>0);
+CHECK (date_debut_abon >= date_debut_menu AND date_debut_menu< date_fin_menu AND masse_actuelle>0 AND masse_precedente>0);

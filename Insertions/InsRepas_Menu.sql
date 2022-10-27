@@ -21,27 +21,6 @@ Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME010','RE017','18/07/20');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE008','16/08/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE003','17/08/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE012','18/08/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE013','19/08/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE011','20/08/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE014','21/08/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE017','22/08/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME010','RE008','29/04/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
@@ -61,27 +40,6 @@ VALUES('ME010','RE014','04/04/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME010','RE017','05/04/22');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE008','01/01/21');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE003','02/01/21');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE012','03/01/21');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE013','04/01/21');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE011','05/01/21');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE014','06/01/21');
-INSERT INTO
-Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME010','RE017','07/01/21');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME010','RE008','31/10/21');
@@ -327,7 +285,7 @@ Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE011','15/09/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME005','REO12','16/09/22');
+VALUES('ME005','RE012','16/09/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE013','17/09/22');
@@ -348,7 +306,7 @@ Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE011','11/08/20');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME005','REO12','12/08/20');
+VALUES('ME005','RE012','12/08/20');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE013','13/08/20');
@@ -372,7 +330,7 @@ Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE011','09/05/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME005','REO12','10/05/22');
+VALUES('ME005','RE012','10/05/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE013','11/05/22');
@@ -393,7 +351,7 @@ Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE011','22/07/20');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME005','REO12','23/07/20');
+VALUES('ME005','RE012','23/07/20');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE013','24/07/20');
@@ -414,7 +372,7 @@ Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE011','16/09/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
-VALUES('ME005','REO12','17/09/22');
+VALUES('ME005','RE012','17/09/22');
 INSERT INTO
 Repas_Menus(id_menu,id_repas,date_repas)
 VALUES('ME005','RE013','18/09/22');

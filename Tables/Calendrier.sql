@@ -1,6 +1,8 @@
 CREATE TABLE CALENDRIER (
    id_abonnement VARCHAR(50) ,
    id_menu VARCHAR(50),
+   id_utilisateur VARCHAR(50),
+   date_debut_abon DATE,
    date_debut_menu DATE ,
    date_fin_menu DATE ,
    masse_precedente REAL ,

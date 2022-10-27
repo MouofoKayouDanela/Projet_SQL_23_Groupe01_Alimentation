@@ -260,8 +260,7 @@ VALUES
     'M', 
     'paulkagame@gmail.com',
     'paulpaul',
-    '19/02/22',
-    'NF012'
+    '19/02/22'
 );
 INSERT INTO UTILISATEURS 
 ( 
