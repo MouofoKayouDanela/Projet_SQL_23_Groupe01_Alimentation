@@ -7,8 +7,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -19,8 +18,7 @@ VALUES
     'M', 
     'kenejonn@gmail.com',
     'ken89Joh17',
-    '01/01/20',
-    'NF001'
+    '01/01/20'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -31,8 +29,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -43,8 +40,7 @@ VALUES
     'M', 
     'kenjonan@gmail.com',
     'jonan02',
-    '23/02/20',
-    'NF002'
+    '23/02/20'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -55,8 +51,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -67,8 +62,7 @@ VALUES
     'M', 
     'joe@gmail.com',
     'temtem',
-    '25/02/20',
-    'NF003'
+    '25/02/20'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -79,8 +73,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -91,8 +84,7 @@ VALUES
     'F', 
     'justinenguefack@gmail.com',
     'JustNguefack',
-    '06/05/20',
-    'NF004'
+    '06/05/20'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -103,8 +95,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -115,8 +106,7 @@ VALUES
     'F', 
     'bodora@gmail.com',
     'BoDora98',
-    '25/05/20',
-    'NF005'
+    '25/05/20'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -127,8 +117,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -139,8 +128,7 @@ VALUES
     'F', 
     'elouneloun@gmail.com',
     '172022',
-    '12/07/20',
-    'NF006'
+    '12/07/20'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -151,8 +139,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -163,8 +150,7 @@ VALUES
     'M', 
     'tim@gmail.com',
     '20210117',
-    '16/08/22',
-    'NF007'
+    '16/08/22'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -175,8 +161,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -187,8 +172,7 @@ VALUES
     'M', 
     'babanou@gmail.com',
     'babana17',
-    '29/04/22',
-    'NF008'
+    '29/04/22'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -199,8 +183,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -211,8 +194,7 @@ VALUES
     'F', 
     'sopitazangue@gmail.com',
     'sopita1990',
-    '01/01/21',
-    'NF009'
+    '01/01/21'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -223,8 +205,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -235,8 +216,7 @@ VALUES
     'F', 
     'angesamba@gmail.com',
     'lovemyself17',
-    '31/10/21',
-    'NF010'
+    '31/10/21'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -247,8 +227,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -259,8 +238,7 @@ VALUES
     'M', 
     'paulkamga@gmail.com',
     '172001',
-    '19/02/22',
-    'NF011'
+    '19/02/22'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -271,8 +249,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -286,6 +263,17 @@ VALUES
     '19/02/22',
     'NF012'
 );
+INSERT INTO UTILISATEURS 
+( 
+    id_utilisateur,
+    nom_utilisateur,
+    prenom_utilisateur,
+    date_naissance,
+    genre,
+    email_utilisateur,
+    mot_de_passe,
+    jour_inscription
+)
 VALUES
 (
     'UT013',
@@ -295,8 +283,7 @@ VALUES
     'F', 
     'vanessaembassa@gmail.com',
     '2712',
-    '31/10/21',
-    'NF013'
+    '31/10/21'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -307,8 +294,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -319,8 +305,7 @@ VALUES
     'F', 
     'gabi@gmail.com',
     '1999',
-    '29/04/22',
-    'NF013'
+    '29/04/22'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -331,8 +316,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -343,8 +327,7 @@ VALUES
     'F', 
     'valtedon@gmail.com',
     '2000',
-    '16/08/22',
-    'NF013'
+    '16/08/22'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -355,8 +338,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -367,8 +349,7 @@ VALUES
     'F', 
     'valdon@gmail.com',
     '2003',
-    '01/01/21',
-    'NF013'
+    '01/01/21'
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -379,8 +360,7 @@ INSERT INTO UTILISATEURS
     genre,
     email_utilisateur,
     mot_de_passe,
-    jour_inscription,
-    id_notification
+    jour_inscription
 )
 VALUES
 (
@@ -391,6 +371,5 @@ VALUES
     'F', 
     'mongajovanie@gmail.com',
     '3006',
-    '06/05/20',
-    'NF013'
+    '06/05/20'
 );
