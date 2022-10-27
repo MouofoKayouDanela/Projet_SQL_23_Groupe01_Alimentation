@@ -19,13 +19,15 @@ PROMPT*************** Creation de la table ingredients ***************
 @@Ingredients
 PROMPT*************** Creation de la table menu ***************
 @@Menu
+<<<<<<< HEAD
 PROMPT
+=======
+
+>>>>>>> NikiTest3
 PROMPT*************** Creation de la table repas ***************
 @@Repas
 PROMPT
-PROMPT*************** Creation de la table suivi ***************
-@@Suivi
-PROMPT
+
 PROMPT*************** Creation de la table type_abonnements ***************
 @@Type_abonnements
 PROMPT

@@ -16,17 +16,10 @@ PROMPT ***************De la table Ingredients_Repas***************
 @@CeIngredients_Repas
 PROMPT
 
-PROMPT ***************De la table Suivi***************
-@@CeSuivi
-PROMPT
-
 PROMPT ***************De la table TypeAbonnements***************
 @@CeTypeAbonnements
 PROMPT
 
-PROMPT ***************De la table Utilisateurs***************
-@@CeUtilisateurs
-PROMPT
 PROMPT *************** De la table repas_menu ***************
 @@CeRepasMenu
 PROMPT
