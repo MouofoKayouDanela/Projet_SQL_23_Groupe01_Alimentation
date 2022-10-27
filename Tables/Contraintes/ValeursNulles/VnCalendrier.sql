@@ -2,4 +2,6 @@ ALTER TABLE CALENDRIER
 MODIFY id_abonnement VARCHAR(50) NOT NULL
 MODIFY id_menu VARCHAR(50) NOT NULL
 MODIFY date_debut_menu DATE NOT NULL
-MODIFY date_fin_menu DATE NOT NULL;
+MODIFY date_fin_menu DATE NOT NULL
+MODIFY masse_precedente REAL NOT NULL
+MODIFY masse_actuelle REAL NOT NULL;

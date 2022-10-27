@@ -20,9 +20,6 @@ PROMPT ***************De la table TypeAbonnements***************
 @@CeTypeAbonnements
 PROMPT
 
-PROMPT ***************De la table Utilisateurs***************
-@@CeUtilisateurs
-PROMPT
 PROMPT *************** De la table repas_menu ***************
 @@CeRepasMenu
 PROMPT
