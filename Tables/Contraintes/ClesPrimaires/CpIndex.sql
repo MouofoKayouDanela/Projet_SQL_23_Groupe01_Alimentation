@@ -18,9 +18,6 @@ PROMPT
 PROMPT**************De la table Menu***************
 @@CpMenu
 PROMPT
-PROMPT**************De la table Notifications***************
-@@CpNotifications
-PROMPT
 PROMPT**************De la table Repas***************
 @@CpRepas
 PROMPT

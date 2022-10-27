@@ -19,8 +19,6 @@ PROMPT*************** Creation de la table ingredients ***************
 @@Ingredients
 PROMPT*************** Creation de la table menu ***************
 @@Menu
-PROMPT*************** Creation de la table notications ***************
-@@Notifications
 PROMPT
 PROMPT*************** Creation de la table repas ***************
 @@Repas

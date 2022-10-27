@@ -1,4 +1,0 @@
-ALTER TABLE UTILISATEURS
-ADD CONSTRAINT CE_utilisateur
-  FOREIGN KEY(id_notification)
-  REFERENCES NOTIFICATIONS(id_notification);

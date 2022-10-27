@@ -6,6 +6,5 @@ CREATE TABLE UTILISATEURS(
     genre CHAR(1) ,
     email_utilisateur VARCHAR(50) ,
     mot_de_passe VARCHAR(50) ,
-    jour_inscription DATE ,
-    id_notification VARCHAR(50)
+    jour_inscription DATE 
 );

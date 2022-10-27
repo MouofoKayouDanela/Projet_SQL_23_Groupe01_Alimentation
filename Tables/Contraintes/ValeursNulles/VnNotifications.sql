@@ -1,5 +1,0 @@
-ALTER TABLE NOTIFICATIONS 
-MODIFY id_notification VARCHAR(50) NOT NULL
-MODIFY intitule_notification VARCHAR(255)NOT NULL 
-MODIFY contenu_notification VARCHAR(255)NOT NULL 
-MODIFY date_notification DATE NOT NULL ;

@@ -1,3 +1,0 @@
-ALTER TABLE NOTIFICATIONS
-ADD CONSTRAINT CP_notifications
-PRIMARY KEY (id_notification);
