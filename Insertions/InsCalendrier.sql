@@ -3,9 +3,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '12/07/20',
-    '18/07/20',
-     73.6,
+    'UT006',
+    TO_DATE('12/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('12/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('18/07/2020', 'dd/mm/yyyy'),
+    73.6,
     70
 );
 INSERT INTO
@@ -13,9 +15,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '16/08/22',
-    '22/08/22',
-     74.3,
+    'UT007',
+    TO_DATE('16/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('16/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('22/08/2022', 'dd/mm/yyyy'),
+    74.3,
     75
 );
 INSERT INTO
@@ -23,9 +27,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '29/04/22',
-    '05/04/22',
-     68.1,
+    'UT008',
+    TO_DATE('29/04/2022', 'dd/mm/yyyy'),
+    TO_DATE('29/04/2022', 'dd/mm/yyyy'),
+    TO_DATE('05/04/2022', 'dd/mm/yyyy'),
+    68.1,
     50
 );
 INSERT INTO
@@ -33,9 +39,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '01/01/21',
-    '07/01/21',
-     88.8,
+    'UT009',
+    TO_DATE('01/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('01/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('07/01/2021', 'dd/mm/yyyy'),
+    88.8,
     85
 );
 INSERT INTO
@@ -43,9 +51,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '31/10/21',
-    '06/11/21',
-     66.4,
+    'UT010',
+    TO_DATE('31/10/2021', 'dd/mm/yyyy'),
+    TO_DATE('31/10/2021', 'dd/mm/yyyy'),
+    TO_DATE('06/11/2021', 'dd/mm/yyyy'),
+    66.4,
     60
 );
 INSERT INTO
@@ -53,9 +63,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '19/02/22',
-    '25/02/22',
-     72.6,
+    'UT011',
+    TO_DATE('19/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('19/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('25/02/2022', 'dd/mm/yyyy'),
+    72.6,
     72
 );
 INSERT INTO
@@ -63,9 +75,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '19/02/22',
-    '25/02/22',
-     73.3,
+    'UT012',
+    TO_DATE('19/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('19/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('25/02/2022', 'dd/mm/yyyy'),
+    73.3,
     72
 );
 INSERT INTO
@@ -73,9 +87,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '31/10/21',
-    '06/11/21',
-     51.9,
+    'UT013',
+    TO_DATE('31/10/2021', 'dd/mm/yyyy'),
+    TO_DATE('31/10/2021', 'dd/mm/yyyy'),
+    TO_DATE('06/11/2021', 'dd/mm/yyyy'),
+    51.9,
     51
 );
 INSERT INTO
@@ -83,9 +99,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '29/04/22',
-    '05/04/22',
-     83.5,
+    'UT014',
+    TO_DATE('29/04/2022', 'dd/mm/yyyy'),
+    TO_DATE('29/04/2022', 'dd/mm/yyyy'),
+    TO_DATE('05/04/2022', 'dd/mm/yyyy'),
+    83.5,
     80
 );
 INSERT INTO
@@ -93,9 +111,11 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '16/08/22',
-    '22/08/22',
-     92.6,
+    'UT015',
+    TO_DATE('16/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('16/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('22/08/2022', 'dd/mm/yyyy'),
+    92.6,
     92.9
 );
 INSERT INTO
@@ -103,8 +123,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB001',
     'ME010',
-    '01/01/21',
-    '07/01/21',
+    'UT016',
+    TO_DATE('01/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('01/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('07/01/2021', 'dd/mm/yyyy'),
      92.6,
     90
 );
@@ -113,8 +135,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME001',
-    '06/05/22',
-    '12/05/22',
+    'UT017',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('12/05/2022', 'dd/mm/yyyy'),
     89.2,
     100
 );
@@ -123,8 +147,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME003',
-    '13/05/22',
-    '19/05/22',
+    'UT017',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('13/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('19/05/2022', 'dd/mm/yyyy'),
     100,
     98
 
@@ -134,8 +160,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME005',
-    '20/05/22',
-    '26/05/22',
+    'UT017',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('20/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('26/05/2022', 'dd/mm/yyyy'),
     98,
     81
 );
@@ -144,8 +172,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME008',
-    '27/05/22',
-    '02/06/22',
+    'UT017',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('27/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('02/06/2022', 'dd/mm/yyyy'),
     81,
     57
 );
@@ -154,8 +184,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME009',
-    '23/08/22',
-    '29/08/22',
+    'UT007',
+    TO_DATE('23/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('23/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('29/08/2022', 'dd/mm/yyyy'),
     76,
     76
 );
@@ -164,8 +196,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME011',
-    '30/08/22',
-    '05/09/22',
+    'UT007',
+    TO_DATE('23/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('30/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('05/09/2022', 'dd/mm/yyyy'),
     76,
     98
 );
@@ -174,8 +208,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME002',
-    '06/09/22',
-    '12/09/22',
+    'UT007',
+    TO_DATE('23/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('06/09/2022', 'dd/mm/yyyy'),
+    TO_DATE('12/09/2022', 'dd/mm/yyyy'),
     98,
     65
 );
@@ -184,8 +220,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME005',
-    '13/09/22',
-    '19/09/22',
+    'UT007',
+    TO_DATE('23/08/2022', 'dd/mm/yyyy'),
+    TO_DATE('13/09/2022', 'dd/mm/yyyy'),
+    TO_DATE('19/09/2022', 'dd/mm/yyyy'),
     65,
     62
 );
@@ -194,8 +232,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME005',
-    '19/07/20',
-    '25/07/20',
+    'UT006',
+    TO_DATE('19/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('19/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('25/07/2020', 'dd/mm/yyyy'),
     90,
     86
 );
@@ -204,8 +244,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME009',
-    '26/07/20',
-    '01/08/20',
+    'UT006',
+    TO_DATE('19/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('26/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('01/08/2020', 'dd/mm/yyyy'),
     86,
     78
 );
@@ -214,8 +256,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME002',
-    '02/08/20',
-    '08/08/20',
+    'UT006',
+    TO_DATE('19/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('02/08/2020', 'dd/mm/yyyy'),
+    TO_DATE('08/08/2020', 'dd/mm/yyyy'),
     78,
     72.8
 );
@@ -224,8 +268,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME005',
-    '09/08/20',
-    '15/08/20',
+    'UT006',
+    TO_DATE('19/07/2020', 'dd/mm/yyyy'),
+    TO_DATE('09/08/2020', 'dd/mm/yyyy'),
+    TO_DATE('15/08/2020', 'dd/mm/yyyy'),
     72.8,
     69
 );
@@ -234,8 +280,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME005',
-    '06/05/22',
-    '12/05/22',
+    'UT008',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('12/05/2022', 'dd/mm/yyyy'),
     100,
     98
 );
@@ -244,8 +292,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME007',
-    '13/05/22',
-    '19/05/22',
+    'UT008',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('13/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('19/05/2022', 'dd/mm/yyyy'),
     98,
     93
 );
@@ -254,8 +304,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME009',
-    '20/05/22',
-    '26/05/22',
+    'UT008',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('20/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('26/05/2022', 'dd/mm/yyyy'),
     93,
     89
 );
@@ -264,8 +316,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME012',
-    '27/05/22',
-    '02/06/22',
+    'UT008',
+    TO_DATE('06/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('27/05/2022', 'dd/mm/yyyy'),
+    TO_DATE('02/06/2022', 'dd/mm/yyyy'),
     89,
     74
 );
@@ -274,8 +328,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME002',
-    '08/01/21',
-    '14/01/21',
+    'UT009',
+    TO_DATE('08/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('08/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('14/01/2021', 'dd/mm/yyyy'),
     93.5,
     91
 );
@@ -284,8 +340,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME001',
-    '15/01/21',
-    '21/01/21',
+    'UT009',
+    TO_DATE('08/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('15/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('21/01/2021', 'dd/mm/yyyy'),
     91,
     89
 );
@@ -294,8 +352,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME004',
-    '22/01/21',
-    '28/01/21',
+    'UT009',
+    TO_DATE('08/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('22/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('28/01/2021', 'dd/mm/yyyy'),
     89,
     92
 );
@@ -304,8 +364,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME009',
-    '29/01/21',
-    '04/02/21',
+    'UT009',
+    TO_DATE('08/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('29/01/2021', 'dd/mm/yyyy'),
+    TO_DATE('04/02/2021', 'dd/mm/yyyy'),
     92,
     84
 );
@@ -314,8 +376,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME012',
-    '26/02/22',
-    '04/03/22',
+    'UT011',
+    TO_DATE('26/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('26/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('04/03/2022', 'dd/mm/yyyy'),
     78,
     69
 );
@@ -324,8 +388,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
    'ME006',
-    '05/03/22',
-    '11/03/22',
+   'UT011',
+    TO_DATE('26/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('05/03/2022', 'dd/mm/yyyy'),
+    TO_DATE('11/03/2022', 'dd/mm/yyyy'),
     69,
     64
 );
@@ -334,8 +400,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME011',
-    '12/03/22',
-    '18/03/22',
+    'UT011',
+    TO_DATE('26/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('12/03/2022', 'dd/mm/yyyy'),
+    TO_DATE('18/03/2022', 'dd/mm/yyyy'),
     64,
     61
 );
@@ -344,8 +412,10 @@ CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu
 VALUES(
     'AB002',
     'ME006',
-    '19/03/22',
-    '25/03/22',
+    'UT011',
+    TO_DATE('26/02/2022', 'dd/mm/yyyy'),
+    TO_DATE('19/03/2022', 'dd/mm/yyyy'),
+    TO_DATE('25/03/2022', 'dd/mm/yyyy'),
     61,
     61
 );
