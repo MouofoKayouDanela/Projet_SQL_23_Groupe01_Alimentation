@@ -14,11 +14,11 @@ VALUES
     'UT001',
     'Kenefack',
     'Jonnathan',
-    '17/02/92',
+    TO_DATE('17/02/1992','dd/mm/yyyy'),
     'M', 
     'kenejonn@gmail.com',
     'ken89Joh17',
-    '01/01/20'
+    TO_DATE('01/01/2020','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -36,11 +36,11 @@ VALUES
     'UT002',
     'Kenfack',
     'Jonan',
-    '17/02/02',
+    TO_DATE('17/02/2002','dd/mm/yyyy'),
     'M', 
     'kenjonan@gmail.com',
     'jonan02',
-    '23/02/20'
+    TO_DATE('23/02/2020','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -58,11 +58,11 @@ VALUES
     'UT003',
     'Temfack',
     'Joel',
-    '17/01/99',
+    TO_DATE('17/01/1999','dd/mm/yyyy'),
     'M', 
     'joe@gmail.com',
     'temtem',
-    '25/02/20'
+    TO_DATE('25/02/2020','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -80,11 +80,11 @@ VALUES
     'UT004',
     'Nguefack',
     'Justine',
-    '17/01/04',
+    TO_DATE('17/01/2004','dd/mm/yyyy'),
     'F', 
     'justinenguefack@gmail.com',
     'JustNguefack',
-    '06/05/20'
+    TO_DATE('06/05/2020','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -102,11 +102,11 @@ VALUES
     'UT005',
     'Bogni',
     'Doralice',
-    '17/01/98',
+    TO_DATE('17/01/1998','dd/mm/yyyy'),
     'F', 
     'bodora@gmail.com',
     'BoDora98',
-    '25/05/20'
+    TO_DATE('25/05/2020','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -124,11 +124,11 @@ VALUES
     'UT006',
     'Eloundou',
     'Anita',
-    '17/01/02',
+    TO_DATE('17/01/2002','dd/mm/yyyy'),
     'F', 
     'elouneloun@gmail.com',
     '172022',
-    '12/07/20'
+    TO_DATE('12/07/2020','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -146,11 +146,11 @@ VALUES
     'UT007',
     'Ekane',
     'Timote',
-    '17/01/01',
+    TO_DATE('17/01/2001','dd/mm/yyyy'),
     'M', 
     'tim@gmail.com',
     '20210117',
-    '16/08/22'
+    TO_DATE('16/08/2022','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -168,11 +168,11 @@ VALUES
     'UT008',
     'Babana',
     'Ousmanou',
-    '17/01/00',
+    TO_DATE('17/01/2000','dd/mm/yyyy'),
     'M', 
     'babanou@gmail.com',
     'babana17',
-    '29/04/22'
+    TO_DATE('29/04/2022','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -190,11 +190,11 @@ VALUES
     'UT009',
     'Zangue',
     'Sopita',
-    '17/01/90',
+    TO_DATE('17/01/1990','dd/mm/yyyy'),
     'F', 
     'sopitazangue@gmail.com',
     'sopita1990',
-    '01/01/21'
+    TO_DATE('01/01/2021','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -212,11 +212,11 @@ VALUES
     'UT010',
     'Samba',
     'Ange',
-    '17/01/05',
+    TO_DATE('17/01/2005','dd/mm/yyyy'),
     'F', 
     'angesamba@gmail.com',
     'lovemyself17',
-    '31/10/21'
+    TO_DATE('31/10/2021','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -234,11 +234,11 @@ VALUES
     'UT011',
     'Kamga',
     'Paul',
-    '17/01/01',
+    TO_DATE('17/01/2001','dd/mm/yyyy'),
     'M', 
     'paulkamga@gmail.com',
     '172001',
-    '19/02/22'
+    TO_DATE('19/02/2022','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -256,11 +256,11 @@ VALUES
     'UT012',
     'Kagame',
     'Paul',
-    '26/08/01',
+    TO_DATE('26/08/2001','dd/mm/yyyy'),
     'M', 
     'paulkagame@gmail.com',
     'paulpaul',
-    '19/02/22'
+    TO_DATE('19/02/2022','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -278,11 +278,11 @@ VALUES
     'UT013',
     'Embassa',
     'Vanessa',
-    '27/12/99',
+    TO_DATE('27/12/1999','dd/mm/yyyy'),
     'F', 
     'vanessaembassa@gmail.com',
     '2712',
-    '31/10/21'
+    TO_DATE('31/10/2021','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -300,11 +300,11 @@ VALUES
     'UT014',
     'Owona',
     'Gabrielle',
-    '11/11/99',
+    TO_DATE('11/11/1999','dd/mm/yyyy'),
     'F', 
     'gabi@gmail.com',
     '1999',
-    '29/04/22'
+    TO_DATE('29/04/2022','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -322,11 +322,11 @@ VALUES
     'UT015',
     'Tedongmo',
     'Valerie',
-    '30/06/00',
+    TO_DATE('30/06/2000','dd/mm/yyyy'),
     'F', 
     'valtedon@gmail.com',
     '2000',
-    '16/08/22'
+    TO_DATE('16/08/2022','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -344,11 +344,11 @@ VALUES
     'UT016',
     'dongmo',
     'Vanelle',
-    '30/06/03',
+    TO_DATE('30/06/2003','dd/mm/yyyy'),
     'F', 
     'valdon@gmail.com',
     '2003',
-    '01/01/21'
+    TO_DATE('01/01/2021','dd/mm/yyyy')
 );
 INSERT INTO UTILISATEURS 
 ( 
@@ -366,9 +366,9 @@ VALUES
     'UT017',
     'Monga',
     'Jovanie',
-    '30/06/03',
+    TO_DATE('30/06/2003','dd/mm/yyyy'),
     'F', 
     'mongajovanie@gmail.com',
     '3006',
-    '06/05/20'
+   TO_DATE( '06/05/2020','dd/mm/yyyy')
 );
