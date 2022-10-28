@@ -153,7 +153,6 @@ VALUES(
     TO_DATE('19/05/2022', 'dd/mm/yyyy'),
     100,
     98
-
 );
 INSERT INTO
 CALENDRIER (id_abonnement,id_menu,id_utilisateur,date_debut_abon,date_debut_menu,date_fin_menu,masse_precedente,masse_actuelle)
