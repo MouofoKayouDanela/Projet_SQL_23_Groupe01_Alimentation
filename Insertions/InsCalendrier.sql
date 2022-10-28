@@ -30,7 +30,7 @@ VALUES(
     'UT008',
     TO_DATE('29/04/2022', 'dd/mm/yyyy'),
     TO_DATE('29/04/2022', 'dd/mm/yyyy'),
-    TO_DATE('05/04/2022', 'dd/mm/yyyy'),
+    TO_DATE('05/05/2022', 'dd/mm/yyyy'),
     68.1,
     50
 );
@@ -102,7 +102,7 @@ VALUES(
     'UT014',
     TO_DATE('29/04/2022', 'dd/mm/yyyy'),
     TO_DATE('29/04/2022', 'dd/mm/yyyy'),
-    TO_DATE('05/04/2022', 'dd/mm/yyyy'),
+    TO_DATE('05/05/2022', 'dd/mm/yyyy'),
     83.5,
     80
 );
