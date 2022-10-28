@@ -17,9 +17,3 @@ PROMPT*************** De la table Type_abonnements ***************
 PROMPT
 PROMPT*************** De la table Utilisateurs ***************
 @@VvUtilisateurs
-PROMPT
-PROMPT*************** De la table Repas ***************
-@@VvRepas
-PROMPT
-PROMPT*************** De la table type_abonnement ***************
-@@VvType_abonnements

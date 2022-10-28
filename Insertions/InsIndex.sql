@@ -6,12 +6,12 @@ PROMPT*************** Insertion de la table informations_utilisateur ***********
 @@InsInfos_Utilisateurs
 PROMPT
 
-PROMPT*************** Insertion de la table Abonnements ***************
-@@InsAbonnements
-PROMPT
-
 PROMPT*************** Insertion de la table type_abonnement ***************
 @@InsType_Abonnements
+PROMPT
+
+PROMPT*************** Insertion de la table Abonnements ***************
+@@InsAbonnements
 PROMPT
 
 PROMPT*************** Insertion de la table ingredients ***************

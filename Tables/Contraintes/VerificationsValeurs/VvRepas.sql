@@ -1,3 +1,3 @@
 ALTER TABLE REPAS
-ADD CONSTRAINT Vv_repas
+ADD CONSTRAINT vv_repas
   CHECK( prix_repas>0);
